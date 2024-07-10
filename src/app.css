@@ -1,0 +1,6 @@
+.app {
+  display: grid;
+  gap: 2em;
+  grid-template-columns: auto 1fr;
+  padding: 1em;
+}
